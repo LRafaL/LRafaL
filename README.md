@@ -6,7 +6,7 @@
 I am passionate about the IT field and specialize in checking, controlling, and finding bugs in software. To further my professional growth and acquire new testing skills, I have pursued additional education. As a result, I have completed a [course in functional software testing](https://rusau.net/). I always strive for improvement and am ready to take on new challenges in the IT world. In my repositories, you will find projects and work related to software testing and quality assurance.
  Please, feel free to browse and explore my projects.
 
-### [My CV](https://drive.google.com/file/d/1ezf59X9Ig0b9DA_gytyzwtmeihwBMqdA/view?usp=sharing) [Certificate](https://drive.google.com/file/d/1qO-m5D7opLi_Rj8FvMJh1NrjpJiEhkft/view?usp=sharing)
+### [My CV](https://drive.google.com/file/d/1ezf59X9Ig0b9DA_gytyzwtmeihwBMqdA/view?usp=sharing), [Certificate](https://drive.google.com/file/d/1qO-m5D7opLi_Rj8FvMJh1NrjpJiEhkft/view?usp=sharing)
 
 - 📫 How to Сontact Me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lrfromr@gmail.com)
 
